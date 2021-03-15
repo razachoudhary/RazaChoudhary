@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 [![Raza's GitHub stats](https://github-readme-stats.vercel.app/api?username=razachoudhary)](https://github.com/razachoudhary/github-readme-stats)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razachoudhary&theme=radical" />
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=appveyor&logoColor=white&color=2bbc8a)
