@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Raza's GitHub stats](https://github-readme-stats.vercel.app/api?username=razachoudhary)](https://github.com/razachoudhary/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razachoudhary&theme=radical" />
